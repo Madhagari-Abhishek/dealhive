@@ -3,19 +3,19 @@ const products = [
     {
         name: "Wireless Earbuds - Boat Immortal 111",
         description: "This is a sample product description.",
-        image: "images/111.png",
+        image: "111.png",
         link: "https://www.amazon.com/dp/B08N5WRWNW"
     },
     {
         name: "Wireless keyboard - Zebronics",
         description: "This is another sample product description.",
-        image: "images/zeb.png",
+        image: "zeb.png",
         link: "https://www.flipkart.com/some-product"
     },
     {
         name: "Noice Voetex Plus Smart Watch",
         description: "Yet another sample product description.",
-        image: "images/noi.png",
+        image: "noi.png",
         link: "https://www.amazon.com/dp/B08N5WRWNW"
     }
     
