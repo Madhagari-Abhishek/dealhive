@@ -2,15 +2,15 @@
 const products = [
     {
         name: "Pintola Fitness Combo: High Protein Chocolate Flavour Creamy Peanut Butter, Added WHEY Protein, 6.2g Fiber, Gluten & Trans Fat Free & 22g High Protein Dark Chocolate Oats, No refined sugar, 910 gram",
-        description: "This is a sample product description.",
-        image: "111.png",
-        link: "https://www.amazon.com/dp/B08N5WRWNW"
+        description: "HIGH IN PROTEIN & FIBER - Pintola Dark Chocolate High Protein Peanut Butter contains 30g of protein and 6.2g of dietary fiber per 100g. This makes it an excellent source of protein and dietary fiber without compromising on taste.",
+        image: "pintola.png",
+        link: "https://amzn.to/41gziYt"
     },
     {
-        name: "Wireless keyboard - Zebronics",
-        description: "This is another sample product description.",
-        image: "zeb.png",
-        link: "https://www.flipkart.com/some-product"
+        name: "Vendoz Women & Girls White Casual Sports Shoes Sneakers - 36 EU",
+        description: "Exclusive design and durable materials makes every step feel light and breezy. Great engineering strikes a balance in style, made in potent design and as per latest fashion trends.",
+        image: "shoe.png",
+        link: "https://amzn.to/3DjbTO9"
     },
     {
         name: "Noice Voetex Plus Smart Watch",
