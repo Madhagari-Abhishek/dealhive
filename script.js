@@ -1,7 +1,7 @@
 // Sample product data
 const products = [
     {
-        name: "Wireless Earbuds - Boat Immortal 111",
+        name: "Pintola Fitness Combo: High Protein Chocolate Flavour Creamy Peanut Butter, Added WHEY Protein, 6.2g Fiber, Gluten & Trans Fat Free & 22g High Protein Dark Chocolate Oats, No refined sugar, 910 gram",
         description: "This is a sample product description.",
         image: "111.png",
         link: "https://www.amazon.com/dp/B08N5WRWNW"
